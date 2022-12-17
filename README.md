@@ -4,7 +4,7 @@ This repository is an assortment of ai tools to act as a "shit to footage genera
 It is supposed to take footage of diffrent quality levels and polish them to a level that is usable for ICVFX.
 This is all packaged into an easy python gui.
 
-IAMGE ENHANCEMENT:
+IMAGE ENHANCEMENT:
 - Denoising, Upscaling, Frame interpolation, Deblurring, Space-Time Video Superresolution:
   https://github.com/JingyunLiang/VRT#quick-testing
 - Deep Video Denoising:
