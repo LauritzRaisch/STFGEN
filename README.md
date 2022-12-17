@@ -66,7 +66,8 @@ IMAGE OUTPAINTING:
 STYLE TRANSFER:
 - Fast Style Transfer:
   https://github.com/lengstrom/fast-style-transfer
-
+- Unreal Engine Style Transfer:
+  https://github.com/microsoft/OnnxRuntime-UnrealEngine
 
 
 TRACKING:
