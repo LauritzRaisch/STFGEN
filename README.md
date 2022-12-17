@@ -14,6 +14,7 @@ IMAGE ENHANCEMENT:
   https://github.com/fairuzn/video_image_stabilisation
   
   
+  
 NERF:
 - large scale NERF (Block-Nerf):
   https://github.com/dvlab-research/LargeScaleNeRFPytorch
@@ -33,15 +34,21 @@ NERF:
 - Google Multi-Nerf:
   https://github.com/google-research/multinerf
   
-MONOCULAR DEPTH
+  
+  
+MONOCULAR DEPTH:
 - Intel MiDaS:
   https://github.com/isl-org/MiDaS
 - Facebook Indoor Depth:
   https://github.com/facebookresearch/DistDepth
 
+
+
 3D INPAINTING:
 - 3D Photo inpainting
   https://github.com/vt-vl-lab/3d-photo-inpainting
+
+
 
 3D:
 - Texture upscaling:
@@ -50,17 +57,19 @@ MONOCULAR DEPTH
   https://github.com/facebookresearch/pifuhd
 
 
-  
-  
-IMAGE INPAINTING
+IMAGE INPAINTING:
 
-IMAGE OUTPAINTING
+IMAGE OUTPAINTING:
 
-STYLE TRANSFER
+
+
+STYLE TRANSFER:
 - Fast Style Transfer:
   https://github.com/lengstrom/fast-style-transfer
 
-TRACKING
+
+
+TRACKING:
 - Working with Motion Tracking:
   https://github.com/facebookresearch/fairmotion
 - 3D pose estimation:
