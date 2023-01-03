@@ -41,6 +41,8 @@ MONOCULAR DEPTH:
   https://github.com/isl-org/MiDaS
 - Facebook Indoor Depth:
   https://github.com/facebookresearch/DistDepth
+- Monodepth2:
+  https://github.com/nianticlabs/monodepth2
 
 
 
