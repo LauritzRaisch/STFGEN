@@ -79,5 +79,7 @@ TRACKING:
   https://github.com/facebookresearch/VideoPose3D
 - Facebook motion vectors from video:
   https://github.com/facebookresearch/motion-search
+- Fast and Lightweight Scene Regressor for Camera Re-Localization
+  https://github.com/ais-lab/feat2map
   
 
