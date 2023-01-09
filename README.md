@@ -43,6 +43,8 @@ MONOCULAR DEPTH:
   https://github.com/facebookresearch/DistDepth
 - Monodepth2:
   https://github.com/nianticlabs/monodepth2
+- Towards real-time unsupervised monocular depth estimation on CPU
+  https://github.com/mattpoggi/pydnet
 
 
 
