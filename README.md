@@ -81,5 +81,7 @@ TRACKING:
   https://github.com/facebookresearch/motion-search
 - Fast and Lightweight Scene Regressor for Camera Re-Localization
   https://github.com/ais-lab/feat2map
+- SLAM DEEP VO
+  https://github.com/ChiWeiHsiao/DeepVO-pytorch
   
 
