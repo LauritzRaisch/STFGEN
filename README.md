@@ -39,6 +39,7 @@ NERF:
 MONOCULAR DEPTH:
 - Intel MiDaS:
   https://github.com/isl-org/MiDaS
+  https://pytorch.org/hub/intelisl_midas_v2/
 - Facebook Indoor Depth:
   https://github.com/facebookresearch/DistDepth
 - Monodepth2:
