@@ -76,7 +76,7 @@ STYLE TRANSFER:
   https://github.com/microsoft/OnnxRuntime-UnrealEngine
 
 
-TRACKING:
+TRACKING & Phtotogrammerty:
 - Working with Motion Tracking:
   https://github.com/facebookresearch/fairmotion
 - 3D pose estimation:
@@ -87,6 +87,10 @@ TRACKING:
   https://github.com/ais-lab/feat2map
 - SLAM DEEP VO
   https://github.com/ChiWeiHsiao/DeepVO-pytorch
+- Shine:
+  https://github.com/PRBonn/SHINE_mapping
+- DeepV2D: Video to Depth with Differentiable Structure from Motion
+  https://github.com/princeton-vl/DeepV2D
   
 GOOGLE EARTH IMPORTER:
 - https://github.com/eliemichel/MapsModelsImporter
