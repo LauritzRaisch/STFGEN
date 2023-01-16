@@ -34,6 +34,9 @@ NERF:
 - Google Multi-Nerf:
   https://github.com/google-research/multinerf
   
+- Nerf 360:
+  https://github.com/Harry-OBrien/Mip-NeRF-360/tree/main
+  
   
   
 MONOCULAR DEPTH:
