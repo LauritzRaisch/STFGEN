@@ -37,6 +37,8 @@ NERF:
 - Nerf 360:
   https://github.com/Harry-OBrien/Mip-NeRF-360/tree/main
   
+- SchenRF:
+  https://github.com/astra-vision/SceneRF
   
   
 MONOCULAR DEPTH:
