@@ -51,7 +51,8 @@ MONOCULAR DEPTH:
   https://github.com/nianticlabs/monodepth2
 - Towards real-time unsupervised monocular depth estimation on CPU
   https://github.com/mattpoggi/pydnet
-
+- Toyota PackNet-SfM: 3D Packing for Self-Supervised Monocular Depth Estimation
+  https://github.com/TRI-ML/packnet-sfm
 
 
 3D INPAINTING:
