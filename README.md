@@ -3,7 +3,7 @@
 This repository is an assortment of ai and non ai tools to act as a "shit to footage generator".
 It is supposed to take footage and data of diffrent quality levels and polish them to a level that is usable for ICVFX.
 
-IMAGE ENHANCEMENT:\
+IMAGE ENHANCEMENT:
 - Denoising, Upscaling, Frame interpolation, Deblurring, Space-Time Video Superresolution:\
   https://github.com/JingyunLiang/VRT#quick-testing
   
