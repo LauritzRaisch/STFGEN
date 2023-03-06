@@ -54,6 +54,8 @@ MONOCULAR DEPTH:
   https://github.com/mattpoggi/pydnet
 - Toyota PackNet-SfM: 3D Packing for Self-Supervised Monocular Depth Estimation:\
   https://github.com/TRI-ML/packnet-sfm
+- PanoFormer, Panorama Transformer for Indoor 360° Depth Estimation:\
+  https://github.com/zhijieshen-bjtu/PanoFormer
 
 
 3D INPAINTING:\
