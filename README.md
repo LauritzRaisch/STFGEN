@@ -13,7 +13,7 @@ IMAGE ENHANCEMENT:
 - video stabilisation\
   https://github.com/fairuzn/video_image_stabilisation
   
-  
+\  
   
 NERF:
 - large scale NERF (Block-Nerf):\
@@ -40,7 +40,8 @@ NERF:
 - SchenRF:\
   https://github.com/astra-vision/SceneRF
   
-  
+\
+
 MONOCULAR DEPTH:
 - Intel MiDaS:\
   https://github.com/isl-org/MiDaS
@@ -62,7 +63,7 @@ MONOCULAR DEPTH:
 - 3D Photo inpainting:\
   https://github.com/vt-vl-lab/3d-photo-inpainting
 
-
+\
 
 3D:
 - Texture upscaling:\
@@ -73,7 +74,7 @@ MONOCULAR DEPTH:
   https://moygcc.github.io/vid2avatar/
   https://github.com/MoyGcc/vid2avatar
 
-
+\
 
 STYLE TRANSFER:
 - Fast Style Transfer:\
@@ -81,8 +82,9 @@ STYLE TRANSFER:
 - Unreal Engine Style Transfer:\
   https://github.com/microsoft/OnnxRuntime-UnrealEngine
 
+\
 
-TRACKING & Phtotogrammerty:\
+TRACKING & Phtotogrammerty:
 - Working with Motion Tracking:\
   https://github.com/facebookresearch/fairmotion
 - 3D pose estimation:\
@@ -98,8 +100,12 @@ TRACKING & Phtotogrammerty:\
 - DeepV2D: Video to Depth with Differentiable Structure from Motion\
   https://github.com/princeton-vl/DeepV2D
   
-GOOGLE EARTH IMPORTER:\
+\
+
+GOOGLE EARTH IMPORTER:
 - https://github.com/eliemichel/MapsModelsImporter
 
-POINTCLOUD TO MESH:\
+\
+
+POINTCLOUD TO MESH:
 - https://github.com/ErlerPhilipp/points2surf
