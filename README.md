@@ -84,7 +84,6 @@ STYLE TRANSFER:
 - Unreal Engine Style Transfer:\
   https://github.com/microsoft/OnnxRuntime-UnrealEngine
 
-\
 
 TRACKING & Phtotogrammerty:
 - Working with Motion Tracking:\
