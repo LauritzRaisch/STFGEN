@@ -71,7 +71,7 @@ MONOCULAR DEPTH:
 - Facebook 2D Image of Human to 3D Model:\
   https://github.com/facebookresearch/pifuhd
 - 2D Video of Human to 3D Model:\
-  https://moygcc.github.io/vid2avatar/
+  https://moygcc.github.io/vid2avatar/;
   https://github.com/MoyGcc/vid2avatar
 - Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes/
   https://github.com/UncleMEDM/InstPIFu
